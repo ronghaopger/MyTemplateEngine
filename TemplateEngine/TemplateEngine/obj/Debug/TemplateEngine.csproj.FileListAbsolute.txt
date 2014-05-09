@@ -1,0 +1,1 @@
+E:\GitHub\MyTemplateEngine\TemplateEngine\TemplateEngine\bin\Debug\TemplateEngine.exe.config
