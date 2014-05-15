@@ -1,1 +1,8 @@
 E:\GitHub\MyTemplateEngine\TemplateEngine\TemplateEngine\bin\Debug\TemplateEngine.exe.config
+E:\GitHub\MyTemplateEngine\TemplateEngine\TemplateEngine\obj\Debug\TemplateEngine.csprojResolveAssemblyReference.cache
+E:\GitHub\MyTemplateEngine\TemplateEngine\TemplateEngine\bin\Debug\TemplateEngine.exe
+E:\GitHub\MyTemplateEngine\TemplateEngine\TemplateEngine\bin\Debug\TemplateEngine.pdb
+E:\GitHub\MyTemplateEngine\TemplateEngine\TemplateEngine\bin\Debug\RHClassLibrary.dll
+E:\GitHub\MyTemplateEngine\TemplateEngine\TemplateEngine\bin\Debug\RHClassLibrary.pdb
+E:\GitHub\MyTemplateEngine\TemplateEngine\TemplateEngine\obj\Debug\TemplateEngine.exe
+E:\GitHub\MyTemplateEngine\TemplateEngine\TemplateEngine\obj\Debug\TemplateEngine.pdb
