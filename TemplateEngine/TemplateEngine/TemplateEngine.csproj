@@ -41,11 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ITags.cs" />
+    <Compile Include="ITag\ITags.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TagHandle.cs" />
-    <Compile Include="TagsAbstractCls.cs" />
+    <Compile Include="ITag\TagsAbstractCls.cs" />
     <Compile Include="Tags\Article.cs" />
     <Compile Include="Tags\ArticleList.cs" />
     <Compile Include="Tags\Channel.cs" />

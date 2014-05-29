@@ -2,3 +2,4 @@ E:\GitHub\MyTemplateEngine\TemplateEngine\RHClassLibrary\bin\Debug\RHClassLibrar
 E:\GitHub\MyTemplateEngine\TemplateEngine\RHClassLibrary\bin\Debug\RHClassLibrary.pdb
 E:\GitHub\MyTemplateEngine\TemplateEngine\RHClassLibrary\obj\Debug\RHClassLibrary.dll
 E:\GitHub\MyTemplateEngine\TemplateEngine\RHClassLibrary\obj\Debug\RHClassLibrary.pdb
+E:\GitHub\MyTemplateEngine\TemplateEngine\RHClassLibrary\obj\Debug\RHClassLibrary.csprojResolveAssemblyReference.cache
