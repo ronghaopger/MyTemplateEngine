@@ -8,6 +8,7 @@ using RHClassLibrary.Data;
 using System.Reflection;
 using RHClassLibrary;
 using System.IO;
+using TemplateEngine.TemplateEngine.Handle;
 
 namespace TemplateEngine.TemplateEngine.Tags
 {

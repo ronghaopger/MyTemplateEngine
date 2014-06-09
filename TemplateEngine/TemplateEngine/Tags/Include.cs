@@ -7,6 +7,7 @@ using System.Data;
 using RHClassLibrary.Data;
 using System.IO;
 using RHClassLibrary;
+using TemplateEngine.TemplateEngine.Handle;
 
 namespace TemplateEngine.TemplateEngine.Tags
 {
@@ -45,7 +46,7 @@ namespace TemplateEngine.TemplateEngine.Tags
                 throw new FileNotFoundException(this.Filename + " 子模板不存在。");
             }
             //解释模板文件
-            TagHandle.ExplainTag(temMapPath,@"/web/common/");
+            TagHandle.ExplainTemplate(temMapPath,@"/web/common/");
             //构造生成的静态文件的绝对路径
             String htmMapPath = PathHelper.GetMapPath(@"/web/common/" + this.Filename);
             using(StreamReader sr = new StreamReader(htmMapPath,Encoding.GetEncoding("GB2312")))

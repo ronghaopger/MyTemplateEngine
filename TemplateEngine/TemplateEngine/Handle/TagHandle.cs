@@ -10,11 +10,11 @@ using System.Web;
 using RHClassLibrary;
 using TemplateEngine.RHClassLibrary.Exception;
 
-namespace TemplateEngine.TemplateEngine
+namespace TemplateEngine.TemplateEngine.Handle
 {
     public class TagHandle
     {
-        public static void ExplainTag(String templatePath,String savePath)
+        public static void ExplainTemplate(String templatePath,String savePath)
         {
             savePath = PathHelper.GetMapPath(savePath + PathHelper.GetFileName(templatePath));
             if (!File.Exists(savePath))
@@ -84,7 +84,7 @@ namespace TemplateEngine.TemplateEngine
         /// <param name="tagName">指定的标签</param>
         /// <param name="index">开始寻找的位置的索引</param>
         /// <returns></returns>
-        public static String[] FoundTag(String temContent, String tagName,int index)
+        internal static String[] FoundTag(String temContent, String tagName,int index)
         {
             String[] returnArray = new String[2];
             //用于记录标签的起始和终止位置的索引。用$隔开。

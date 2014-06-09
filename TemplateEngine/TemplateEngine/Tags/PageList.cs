@@ -6,6 +6,7 @@ using TemplateEngine.RHClassLibrary.Exception;
 using System.IO;
 using RHClassLibrary;
 using System.Reflection;
+using TemplateEngine.TemplateEngine.Handle;
 
 namespace TemplateEngine.TemplateEngine.Tags
 {

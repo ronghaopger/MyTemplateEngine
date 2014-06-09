@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.IO;
 
-namespace TemplateEngine.TemplateEngine
+namespace TemplateEngine.TemplateEngine.Handle
 {
     public class TemplateHandle
     {

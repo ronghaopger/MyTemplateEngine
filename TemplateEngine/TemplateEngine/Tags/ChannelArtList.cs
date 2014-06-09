@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Data;
 using TemplateEngine.RHClassLibrary.Exception;
+using TemplateEngine.TemplateEngine.Handle;
 
 namespace TemplateEngine.TemplateEngine.Tags
 {
